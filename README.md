@@ -1,7 +1,7 @@
 # Cleaning-Data-Course-Project
 Cleaning Data Course Project
 # This script processes the UCI HAR Dataset to create a tidy dataset as per project requirements.
-
+# By Carlos A Castillo D
 # Load required packages
 library(dplyr)
 library(tidyr)
